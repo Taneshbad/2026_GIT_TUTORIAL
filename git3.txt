@@ -8,3 +8,5 @@ key-> hash of the data
 value-> data
 git uses a cryptograpthic hash function-> shal
 for a 
+
+from another end
